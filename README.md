@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+TaskMaster is a sleek and intuitive to-do list application designed to help you organize your tasks and manage your time effectively. Crafted with Flutter and Dart, it offers a seamless user experience across Android and iOS platforms.
 
-A few resources to get you started if this is your first Flutter project:
+Intuitive Interface: TaskMaster boasts a clean and user-friendly interface that makes task management effortless. With intuitive controls and smooth navigation, organizing your tasks becomes a breeze.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Create and Manage Tasks: Easily create new tasks with just a few taps. Assign titles, set due dates, and add detailed descriptions to your tasks. TaskMaster allows you to prioritize tasks by categorizing them into customizable lists.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mark Completion: Once you've completed a task, simply mark it as done with a quick tap. TaskMaster automatically updates your task list, keeping you informed of your progress.
+
+<img width="248" alt="image" src="https://github.com/1CaptainPeroxide/todoapp/assets/142601437/7fbec51f-09ae-4b15-b64e-24e2144e48c3">
