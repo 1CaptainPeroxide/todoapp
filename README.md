@@ -12,4 +12,11 @@ Create and Manage Tasks: Easily create new tasks with just a few taps. Assign ti
 
 Mark Completion: Once you've completed a task, simply mark it as done with a quick tap. TaskMaster automatically updates your task list, keeping you informed of your progress.
 
-<img width="248" alt="image" src="https://github.com/1CaptainPeroxide/todoapp/assets/142601437/7fbec51f-09ae-4b15-b64e-24e2144e48c3">
+Delete Tasks: TaskMaster empowers you with the ability to declutter your task list effortlessly. When a task is no longer relevant or completed, simply delete it with a single swipe or tap. TaskMaster ensures that your task list remains organized and focused, allowing you to stay productive without distractions.
+
+
+<img width="252" alt="Screenshot 2024-02-26 105248" src="https://github.com/1CaptainPeroxide/todoapp/assets/142601437/c2285582-a0fb-46e5-9e49-38f807907ba1">
+
+<img width="256" alt="Screenshot 2024-02-26 105259" src="https://github.com/1CaptainPeroxide/todoapp/assets/142601437/3238995b-4d40-4e0f-8723-2ceee7e9a872">
+
+<img width="252" alt="Screenshot 2024-02-26 105314" src="https://github.com/1CaptainPeroxide/todoapp/assets/142601437/3007ebd2-32cd-413d-b24f-f03902f6f953">
